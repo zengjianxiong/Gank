@@ -1,0 +1,6 @@
+ext {
+    compileSdkVersion = 26
+    compileSdkVersion = "26.0.2"
+    minSdkVersion = 19
+    targetSdkVersion = 26
+}
